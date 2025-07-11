@@ -1,4 +1,4 @@
-## reliable-microbenchmarking
+## micro-benchmarking-reliability
 
 This repository contains code and data for reproducing the results from 
 "How Reliable is Language Model Micro-benchmarking?"
